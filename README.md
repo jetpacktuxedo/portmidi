@@ -13,7 +13,7 @@ the instructions on [PortMidi homepage](http://portmedia.sourceforge.net/portmid
 
 In order to start, go get this repository:
 ~~~ sh
-go get github.com/rakyll/portmidi
+go get github.com/jetpacktuxedo/portmidi
 ~~~
 
 ## Usage
